@@ -1,0 +1,9 @@
+{
+  "name": "BagStop 백스톱",
+  "short_name": "BagStop",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E8613C",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
